@@ -41,9 +41,9 @@ by pressing the start button!
 
 ## Credits
 
-Programming: Rob Loach (http://www.robloach.net)
-Music: Anthony Garin
-Graphics: Ari Feldman (http://www.flyingyogi.com)
+* Programming: [Rob Loach](http://www.robloach.net)
+* Music: Anthony Garin
+* Graphics: [Ari Feldman](http://www.flyingyogi.com) - [SpriteLib](http://www.widgetworx.com/spritelib/)
 
 
 ## Changelog
